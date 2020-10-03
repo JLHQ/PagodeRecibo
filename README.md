@@ -1,5 +1,4 @@
-# PagodeRecibo
-## Nombre del proyecto: Pago de recibo
+# Nombre del proyecto: Pago de recibo
 ## Equipo: Comunidad del anillo
 ## Fecha de entrega: 2 de octubre del 2020
 ### Integrantes:
